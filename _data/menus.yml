@@ -1,17 +1,14 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Blog
   url: ""
 
 - title: About
   url: "about/"
 
-- title: Contact
-  url: "contact/"
-
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: Sign In to the Digital Reader
+  url: https://www.digitalreader.com/digital/login
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
@@ -22,11 +19,9 @@ footermenu:
   url: ""
 
 - title: Privacy Policy
-  url: "privacy-policy/"
+  url: "https://cdn.digitalreader.com/packs/media/resources/privacy-policy-digital-2020-04-07-e751fad8f071ec293cac.pdf"
+  external: true
 
 - title: Contact
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true

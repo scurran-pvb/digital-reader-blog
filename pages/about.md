@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+image: assets/images/about.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+# The Literacy Tool That Fits Every Classroom
+Pioneer Valley Books (PVB) offers educators high-quality print and digital solutions that provide diverse learners with comprehensive and explicit literacy instruction. Our engaging books, efficient assessments, dynamic lesson plans, powerful intervention, and other indispensable classroom resources improve teacher effectiveness and enable every student to become a lifelong reader and writer.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+Our books are ideal for students from pre-kindergarten through sixth grade, elementary schoolers with special needs, and English Language Learners. Characters, story lines, and themes that appeal to young children have been carefully developed into books that really ‘work.’ Before publication, a dedicated team of classroom, literacy, and Reading Recovery teachers reviews each book. Carefully selected reading vocabulary, easy sentence structure, clear fonts, careful spacing, and attention to line breaks work together to assist in the development of strong reading strategies. Dynamic photographs and appealing illustrations provide the reader with support and extension of the text.
