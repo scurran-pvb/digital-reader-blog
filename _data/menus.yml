@@ -9,7 +9,7 @@ topmenu:
 
 - title: Sign In to the Digital Reader
   url: https://www.digitalreader.com/digital/login
-  class: "ml-2 btn btn-dark text-white px-3"
+  class: "ml-2 btn btn-primary-blue-100 text-secondary-blue-130 px-3"
   external: true
 
 # Footer Menu
@@ -17,11 +17,14 @@ footermenu:
 
 - title: Home
   url: ""
+  class: "text-secondary-blue-130"
 
 - title: Privacy Policy
   url: "https://cdn.digitalreader.com/packs/media/resources/privacy-policy-digital-2020-04-07-e751fad8f071ec293cac.pdf"
   external: true
+  class: "text-secondary-blue-130"
 
 - title: Contact
   url: "contact/"
+  class: "text-secondary-blue-130"
 

@@ -1,5 +1,6 @@
 title: "Digital Reader"
 email: sarahc@pvep.com
+description: Write an awesome description for your new site here.
 timezone: UTC
 baseurl: "/digital-reader-blog/"
 permalink: "/:title/"

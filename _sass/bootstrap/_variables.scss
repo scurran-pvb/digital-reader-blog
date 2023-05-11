@@ -63,7 +63,11 @@ $colors: map-merge((
 ), $colors);
 
 $primary:       $blue !default;
+$primary-blue-100:  #79CFE3 !default;
+$primary-orange-100:  #EC5923 !default;
 $secondary:     $gray-600 !default;
+$secondary-blue-100: #547987;
+$secondary-blue-130: #224655 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
@@ -74,7 +78,11 @@ $dark:          $gray-800 !default;
 $theme-colors: () !default;
 $theme-colors: map-merge((
   "primary":    $primary,
+  "primary-blue-100": $primary-blue-100,
+  "primary-orange-100": $primary-orange-100,
   "secondary":  $secondary,
+  "secondary-blue-100": $secondary-blue-100,
+  "secondary-blue-130": $secondary-blue-130,
   "success":    $success,
   "info":       $info,
   "warning":    $warning,
@@ -82,6 +90,7 @@ $theme-colors: map-merge((
   "light":      $light,
   "dark":       $dark
 ), $theme-colors);
+
 // stylelint-enable
 
 // Set a specific jump point for requesting color jumps
