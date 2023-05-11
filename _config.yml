@@ -1,9 +1,11 @@
 title: "Digital Reader"
 email: sarahc@pvep.com
 description: Write an awesome description for your new site here.
+image: assets/images/about.png
 timezone: UTC
 baseurl: "/digital-reader-blog/"
 permalink: "/:title/"
+logo: 'assets/images/digital-reader.png'
 icon: 'assets/images/digital-reader.svg'
 favicon: 'assets/images/favicon.png'
 author:
