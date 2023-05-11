@@ -2,7 +2,6 @@
 layout: page
 permalink: "/about/"
 image: assets/images/about.png
-title: The Literacy Tool That Fits Every Classroom
 ---
 Pioneer Valley Books (PVB) offers educators high-quality print and digital solutions that provide diverse learners with comprehensive and explicit literacy instruction. Our engaging books, efficient assessments, dynamic lesson plans, powerful intervention, and other indispensable classroom resources improve teacher effectiveness and enable every student to become a lifelong reader and writer.
 
