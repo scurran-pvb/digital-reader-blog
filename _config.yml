@@ -1,7 +1,7 @@
 title: "Digital Reader"
 email: sarahc@pvep.com
 timezone: UTC
-baseurl: "https://scurran-pvb.github.io/digital-reader-blog/"
+baseurl: "/digital-reader-blog/"
 permalink: "/:title/"
 icon: 'assets/images/digital-reader.svg'
 favicon: 'assets/images/favicon.png'
