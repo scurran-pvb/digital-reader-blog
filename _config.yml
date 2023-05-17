@@ -24,6 +24,13 @@ sass:
   style: :compressed
 ganalytics: UA-113961478-1
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: 'assets/images/about.png'
+
 # Authors
 authors:
   Michèle Dufresne:
