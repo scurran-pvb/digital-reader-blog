@@ -3,9 +3,9 @@ email: sarahc@pvep.com
 description: The Literacy Tool That Fits Every Classroom
 image: 'assets/images/about.png'
 timezone: UTC
-baseurl: "/digital-reader-blog/"
+baseurl: "/digital-reader-blog"
 permalink: "/:title/"
-logo: 'assets/images/digital-reader.svg'
+logo: 'assets/images/digital-reader.png'
 icon: 'assets/images/digital-reader.svg'
 favicon: 'assets/images/favicon.png'
 author:
