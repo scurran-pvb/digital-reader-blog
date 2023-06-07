@@ -5,7 +5,7 @@ image: 'assets/images/about.png'
 timezone: UTC
 baseurl: "/digital-reader-blog/"
 permalink: "/:title/"
-logo: 'assets/images/let-read-square.png'
+logo: 'assets/images/lets-read-dr.png'
 icon: 'assets/images/digital-reader.svg'
 favicon: 'assets/images/favicon.png'
 author:
