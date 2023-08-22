@@ -17,7 +17,7 @@ In addition to high-quality books, the Digital Reader also provides interactive 
 Through **Let’s Read!** our team of literacy experts will embark on a mission to empower you, the educators. Each month, we will delve into topics that amplify your strengths, translate new insights into classroom practices, and harness the rich tools of the Digital Reader to create immersive learning experiences.
 
 ### Pioneer Valley Books: Where Quality Meets Learning
-The Digital Reader is different from other digital books because it's backed by Pioneer Valley Books, a leading provider of literacy resources for over 20 years. Pioneer Valley Books is committed to providing high-quality solutions for all types of literacy instruction, and their books are designed to engage and support all readers.
+The Digital Reader is different from other digital books because it's backed by <a href="https://pioneervalleybooks.com/">Pioneer Valley Books</a>, a leading provider of literacy resources for over 20 years. Pioneer Valley Books is committed to providing high-quality solutions for all types of literacy instruction, and their books are designed to engage and support all readers.
 
 What sets us apart? It's our lineage—the books that grace our platform are backed by Pioneer Valley Books, a leading provider of literacy resources for over 20 years. Pioneer Valley Books is committed to providing high-quality solutions for all types of literacy instruction, and their books are designed to engage and support all readers. From decodable wonders to captivating graphic novels, our collection dances with variety, all meticulously calibrated for developmental appropriateness.
 
