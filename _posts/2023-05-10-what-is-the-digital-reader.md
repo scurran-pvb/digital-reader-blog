@@ -2,7 +2,6 @@
 layout: post
 title:  "What is the Digital Reader"
 date:   2023-05-10 10:00:00 -0400
-author: Michèle Dufresne
 categories: [ phonics, assessment ]
 image: assets/images/2023-05-10-digital-reader.png
 ---
