@@ -13,7 +13,7 @@ topmenu:
   external: true
 
 - title: Start a free trial
-  url: https://www.digitalreader.com/digital/login
+  url: https://www.digitalreader.com/digital/free_trial
   class: "ml-2 btn btn-primary-orange-100 text-white px-3"
   external: true
 
