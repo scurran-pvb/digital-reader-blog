@@ -68,7 +68,7 @@ The Digital Reader Assessment and Data Center can provide you with robust assess
 **3.	Writing Assessment:** A robust writing assessment provides you with feedback on student writing and next steps for examining writing skills.
 
 Watch the following video to learn more about all of the assessment features on the Digital Reader.
-### Reading Adventures {#videoid}
+### Back to School Assessments with the Digital Reader {#videoid}
 {% include youtube.html id="YDUV3COVU0g" %}
 
 Reading assessments are an important tool for teachers. By using reading assessments, teachers can identify students' reading skills, monitor student progress, guide instruction, and evaluate the effectiveness of instruction. The Digital Reader Assessment and Data Center is a vital resource that can help teachers assess students' reading skills and track their progress over time.
