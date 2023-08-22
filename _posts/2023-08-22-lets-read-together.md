@@ -7,7 +7,7 @@ image: assets/images/2023-08-22-image-lets-read-blog.png
 ---
 
 ## Welcome, Teachers and Educators!
-We are excited to welcome you to **Let's Read!**—the companion blog to the Digital Reader. This is a space where we'll be discussing all things literacy, from using the Digital Reader to support your students' reading development to staying up-to-date on the areas of literacy education.
+We are excited to welcome you to **Let's Read!**—the blog site companion to the Digital Reader. This is a space where we'll be discussing all things literacy, from using the Digital Reader to support your students' reading development to staying up-to-date on the areas of literacy education.
 
 For those of you who may be new to our platform, let us paint you a picture of what the <a href="https://www.digitalreader.com/">Digital Reader</a> is all about: a literacy tool that fits every classroom and includes over 1,000 fiction, nonfiction, and decodable books, with new books added regularly. Each book has been carefully crafted and illustrated to support and challenge a wide range of readers.
 
