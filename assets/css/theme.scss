@@ -402,17 +402,17 @@ ul.tags li a:hover {
 }
 
 
-.btn.follow {
-	border-color:#ccc;
-	color:#999;
-	padding:3px 10px;
-	text-align:center;
-	border-radius:999em;
-	font-size:0.85rem;
-	display:inline-block;
-        box-shadow: none;
-    font-weight:400;
-}
+// .btn.follow {
+// 	border-color:#ccc;
+// 	color:#999;
+// 	padding:3px 10px;
+// 	text-align:center;
+// 	border-radius:999em;
+// 	font-size:0.85rem;
+// 	display:inline-block;
+//         box-shadow: none;
+//     font-weight:400;
+// }
 .btn.subscribe {
 	background-color:#79CFE3;
 	border-color:#1C9963;
@@ -424,10 +424,10 @@ ul.tags li a:hover {
 	font-weight:600;
 	text-transform:uppercase;
 }
-.post-top-meta .btn.follow {
-	margin-left:5px;
-	margin-top:-4px;
-}
+// .post-top-meta .btn.follow {
+// 	margin-left:5px;
+// 	margin-top:-4px;
+// }
 
 .form-control::-webkit-input-placeholder {
 	color: rgba(0,0,0,.5);
@@ -456,12 +456,12 @@ ul.tags li a:hover {
 	font-size:1rem;
 	color:rgba(0,0,0,.6);
 }
-.post-top-meta.authorpage .btn.follow {
-	padding:7px 20px;
-	margin-top:10px;
-	margin-left:0;
-	font-size:0.9rem;
-}
+// .post-top-meta.authorpage .btn.follow {
+// 	padding:7px 20px;
+// 	margin-top:10px;
+// 	margin-left:0;
+// 	font-size:0.9rem;
+// }
 .graybg.authorpage {
 	border-top:1px solid #f0f0f0;
 }
