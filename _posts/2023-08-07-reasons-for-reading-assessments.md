@@ -13,15 +13,19 @@ Identifying instructional needs involves knowing each student’s ability to dec
 
 With regular assessment, you will have data at your fingertips to help you target your instruction. Below we will discuss 4 important ways reading assessments can inform your teaching. We will then explain how the assessment feature on our Digital Reader can provide information about your students’ skills and help you identify instructional needs and monitor student progress.
 
-> ## What Is a Reading Assessment?
-> Reading assessments form one part of a comprehensive assessment program. For teachers to get a broad view on student reading progress, they need to understand specific reading skills, along with phonic/word study knowledge and writing aptitude. Within this framework, a reading assessment can help you pinpoint specific reading skills. Some of the skills targeted include:
-> *	letter knowledge
-> *	reading accuracy
-> *	phonemic awareness
-> *	phonics
-> *	comprehension
-> *	vocabulary
-> *	fluency
+***
+
+## What Is a Reading Assessment?
+Reading assessments form one part of a comprehensive assessment program. For teachers to get a broad view on student reading progress, they need to understand specific reading skills, along with phonic/word study knowledge and writing aptitude. Within this framework, a reading assessment can help you pinpoint specific reading skills. Some of the skills targeted include:
+*	letter knowledge
+*	reading accuracy
+*	phonemic awareness
+*	phonics
+*	comprehension
+*	vocabulary
+*	fluency
+
+***
 
 ## How Reading Assessments Help You Target Your Teaching
 Regular assessment gives you insight into student progress but can also yield data that will make your teaching more efficient and bolster student success. Here are 4 ways you can leverage reading assessment data to improve your teaching.
