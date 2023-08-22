@@ -1,4 +1,4 @@
-title: "Let's Read with the Digital Reader"
+title: "Digital Reader"
 email: sarahc@pvep.com
 description: The Literacy Tool That Fits Every Classroom
 image: 'assets/images/about.png'
@@ -34,13 +34,13 @@ defaults:
 # Authors
 authors:
   Michèle Dufresne:
-    name: Michele Dufresne
+    name: Michèle Dufresne
     display_name: Michèle Dufresne
     avatar: 'assets/images/michele.png'
     email: contactus@pioneervalleybooks.com
     web: https://www.digitalreader.com/
     twitter: https://twitter.com/pvalleybooks
-    description: "Michèle Dufresne is a former literacy specialist who has has transformed her dedication to teaching children how to read into a focal point of her writing, speaking, and teaching endeavors. She's a best-selling author known for the Bella and Rosie series, along with various fiction and nonfiction books used worldwide by teachers. Holding a doctorate from the University of Massachusetts, Michèle has been a classroom teacher, language arts specialist, and consultant. Her accolades include the 2017 Moonbeam Children’s Silver Book Award for "Oki and the Polar Bear." Dedicated to advancing literacy education, Michèle strives to elevate children's reading journeys while providing valuable support to educators globally."
+    description: "Pioneer Valley Books President Michèle Dufresne needs little introduction as the heart of our company and a founding member. She is a former Reading Recovery Teacher Leader. She started writing books when working with some of her first Reading Recovery students who needed some extra motivation. She is passionate about helping teachers with their mission of helping children learn to read and write and love books."
 
 # Social
 social:
