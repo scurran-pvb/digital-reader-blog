@@ -3,7 +3,7 @@ layout: post
 title:  "Let's Read Together!"
 date:   2023-08-22 10:00:00 -0400
 categories:
-image: assets/images/2023-05-10-digital-reader.png
+image: assets/images/2023-08-22-image-lets-read-blog.png
 ---
 
 ## Welcome, Teachers and Educators!
