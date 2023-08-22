@@ -44,7 +44,7 @@ Ongoing assessments can also help you identify if a student is not making progre
 ### 3: Guide Instruction
 Assessments can help you adjust group instruction if you find students aren’t grasping a skill or need review. Reading assessments help teachers make informed decisions for individual students.
 
-As you review assessment data, ask yourself the following questions.
+As you review assessment data, ask yourself the following questions:
 * Are students understanding what they are reading?
 * Are they gaining new vocabulary and becoming more fluent?
 * What kind of words are they struggling to decode?
