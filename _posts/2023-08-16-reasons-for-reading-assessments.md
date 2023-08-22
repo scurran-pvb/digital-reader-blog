@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "4 Ways Reading Assessments Make You a Better Teacher"
-date:   2023-08-07 10:50:00 -0400
+date:   2023-08-16 10:50:00 -0400
 author: Michèle Dufresne
 categories: [ assessment ]
 image: assets/images/2023-08-16-image-reading-assessment.png
