@@ -15,13 +15,13 @@ With regular assessment, you will have data at your fingertips to help you targe
 
 > ## What Is a Reading Assessment?
 > Reading assessments form one part of a comprehensive assessment program. For teachers to get a broad view on student reading progress, they need to understand specific reading skills, along with phonic/word study knowledge and writing aptitude. Within this framework, a reading assessment can help you pinpoint specific reading skills. Some of the skills targeted include:
-> * •	letter knowledge
-> * •	reading accuracy
-> * •	phonemic awareness
-> * •	phonics
-> * •	comprehension
-> * •	vocabulary
-> * •	fluency
+> *	letter knowledge
+> *	reading accuracy
+> *	phonemic awareness
+> *	phonics
+> *	comprehension
+> *	vocabulary
+> *	fluency
 
 ## How Reading Assessments Help You Target Your Teaching
 Regular assessment gives you insight into student progress but can also yield data that will make your teaching more efficient and bolster student success. Here are 4 ways you can leverage reading assessment data to improve your teaching.
@@ -42,17 +42,17 @@ Ongoing assessments can also help you identify if a student is not making progre
 Assessments can help you adjust group instruction if you find students aren’t grasping a skill or need review. Reading assessments help teachers make informed decisions for individual students.
 
 As you review assessment data, ask yourself the following questions.
-* •	Are students understanding what they are reading?
-* •	Are they gaining new vocabulary and becoming more fluent?
-* •	What kind of words are they struggling to decode?
+* Are students understanding what they are reading?
+* Are they gaining new vocabulary and becoming more fluent?
+* What kind of words are they struggling to decode?
 
 ### 4: Evaluate the Effectiveness of Instruction
 Assessments can provide feedback to you and school administrators about the effectiveness of your literacy curriculum.
 
 Some things to look for when analyzing classroom data include:
-* •	What kind of overall progress is the class making?
-* •	How does their progress compare to other students in the school?
-* •	Is there anything missing from what they are learning?
+* What kind of overall progress is the class making?
+* How does their progress compare to other students in the school?
+* Is there anything missing from what they are learning?
 
 ## The Digital Reader Assessment and Data Center
 
@@ -76,8 +76,8 @@ Reading assessments are an important tool for teachers. By using reading assessm
 ### Try Us Out!
 Sign up for a free 2-week trial of the Digital Reader to access our amazing assessment resources! Your trial of this expansive resource will include access to:
 
-* **•	Assessment and Data Center:** track student progress, identify instructional reading levels, and differentiate instruction with our easy-to-use assessment tools.
-* **•	Guided Reading Assessment Kit:** get a reading accuracy rate for each of your students to determine their instructional reading level.
-* **•	Two books per reading level:** engage readers at every level with two books that have been developed and tested specifically for assessment.
+* **Assessment and Data Center:** track student progress, identify instructional reading levels, and differentiate instruction with our easy-to-use assessment tools.
+* **Guided Reading Assessment Kit:** get a reading accuracy rate for each of your students to determine their instructional reading level.
+* **Two books per reading level:** engage readers at every level with two books that have been developed and tested specifically for assessment.
 
 Sign up today, and see how the Digital Reader can enhance your instruction and help students improve their reading skills!
