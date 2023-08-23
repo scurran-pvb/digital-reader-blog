@@ -19,7 +19,7 @@ Through **Let’s Read!** our team of literacy experts will embark on a mission 
 ### Pioneer Valley Books: Where Quality Meets Learning
 What sets us apart? It's our lineage—the books that grace our platform are backed by <a href="https://pioneervalleybooks.com/">Pioneer Valley Books</a>, a leading provider of literacy resources for over 20 years. Pioneer Valley Books is committed to providing high-quality solutions for all types of literacy instruction, and their books are designed to engage and support all readers. From decodable storybooks to captivating graphic novels, our collection shines with variety, all meticulously calibrated for developmental appropriateness.
 
-##### We hope you'll join us on this journey!
+#### We Hope You'll Join Us on This Journey!
 We understand that classrooms are galaxies of unique learners, and there's no one-size-fits-all solution. Thank you for being the guiding stars in your students' lives. We're excited to share our love of literacy with you and help you make a difference in the lives of your students. So come on in, grab a cup of coffee, and **Let’s Read!**
 
 
