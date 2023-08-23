@@ -32,7 +32,7 @@ Regular assessment gives you insight into student progress but can also yield da
 ### 1: Identify Reading Skills and Group Students According to Instructional Needs
 Forming groups is an important aspect of small-group instruction. You can use assessment data to make sure you are setting up your students for success and maximizing learning for each group.
 
-For whole-group instruction, it’s important to know the reading level for each of your students. This is particularly important at the beginning of the school year. Some students may have made great progress over the summer, while others may have experienced some summer slide. Knowing this information will make you more effective when it comes to whole-class teaching.
+For small-group instruction, it’s important to know the reading level for each of your students. This is particularly important at the beginning of the school year. Some students may have made great progress over the summer, while others may have experienced some summer slide. Knowing this information will make you more effective when it comes to working with your students.
 
 ### 2: Monitor Student Progress
 It is important to determine if students are making adequate progress as they learn to read. Progress monitoring can help you know if you need to adjust instruction for your students.
