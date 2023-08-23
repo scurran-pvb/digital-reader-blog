@@ -11,7 +11,7 @@ We are excited to welcome you to **Let's Read!**—the blog site companion to th
 
 For those of you who may be new to our platform, let us paint you a picture of what the <a href="https://www.digitalreader.com/">Digital Reader</a> is all about: a literacy tool that fits every classroom and includes over 1,000 fiction, nonfiction, and decodable books, with new books added regularly. Each book has been carefully crafted and illustrated to support and challenge a wide range of readers.
 
-In addition to high-quality books, the Digital Reader also provides interactive word study games, videos, and comprehension quizes to keep students engaged, as well as data tracking tools and reports to help teachers monitor student progress.
+In addition to high-quality books, the Digital Reader also provides interactive word study games, videos, and comprehension quizzes to keep students engaged, as well as data tracking tools and reports to help teachers monitor student progress.
 
 ### Our Mission: Supporting Your Teaching Journey
 Through **Let’s Read!** our team of literacy experts will embark on a mission to empower you, the educators. Each month, we will delve into topics that amplify your strengths, translate new insights into classroom practices, and harness the rich tools of the Digital Reader to create immersive learning experiences.
