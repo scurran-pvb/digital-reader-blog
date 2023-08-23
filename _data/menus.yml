@@ -9,12 +9,12 @@ topmenu:
 
 - title: Sign In to the Digital Reader
   url: https://www.digitalreader.com/digital/login
-  class: "btn btn-primary-blue-100 text-secondary-blue-130 p-2"
+  class: "m-1 btn btn-primary-blue-100 text-secondary-blue-130 p-3"
   external: true
 
 - title: Start a free trial
   url: https://www.digitalreader.com/digital/free_trial
-  class: "btn btn-primary-orange-100 text-white p-2"
+  class: "m-1 btn btn-primary-orange-100 text-white p-3"
   external: true
 
 # # Footer Menu
