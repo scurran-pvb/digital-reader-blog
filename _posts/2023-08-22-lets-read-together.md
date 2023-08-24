@@ -22,7 +22,6 @@ What sets us apart? It’s our lineage—the books that grace our platform are t
 #### We Hope You'll Join Us!
 We understand that classrooms are galaxies of unique learners, and  there’s no one-size-fits-all solution. We’re excited to share our love of  literacy with you and help you be a guiding star in the lives of your students. So come on in, grab a book, and **Let’s Read!**
 
-Dive into our first post exploring the topic of reading assessments:
-
+Dive into our first post exploring the topic of reading assessments:<br>
 **<a href="{{ site.baseurl }}{% post_url 2023-08-16-4-ways-reading-assessments-make-you-a-better-teacher %}">4 Ways Reading Assessments Make You a Better Teacher</a>**
 
