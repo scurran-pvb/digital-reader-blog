@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "4 Ways Reading Assessments Make You a Better Teacher"
-date:   2023-08-16 10:50:00 -0400
+date:   2023-08-28 10:00:00 -0400
 author: Michèle Dufresne
 categories: [ assessment ]
-image: assets/images/2023-08-16-image-reading-assessment.png
+image: assets/images/2023-08-28-image-reading-assessment.png
 ---
 
 Reading assessment informs instruction and is an essential part of any literacy curriculum (Afflerbach, 2017). Students enter our classrooms with different backgrounds and a wide range of literacy skills. To effectively meet the needs of our diverse learners, we need to provide targeted, differentiated instruction based on instructional needs.
